@@ -1,0 +1,14 @@
+#imgContainer{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    /* border: 2px solid red; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWXrcIrY0zoKqNLKfLQQSaRta4j6CRz5vFKdlDTzCJLd9ZSps&s");
+    background-size: cover;
+
+
+}
+#selectCity
+{
+    /* visibility: hidden; */
+}
